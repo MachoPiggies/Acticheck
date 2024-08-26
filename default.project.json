@@ -1,0 +1,12 @@
+{
+  "name": "Acticheck",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      }
+    }
+  }
+}
